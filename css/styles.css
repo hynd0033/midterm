@@ -61,4 +61,28 @@ body {
     margin: 0 auto;
 }
 
+h1 {
+	position: relative;
+	color:white;
+	top:-142px; left:368px;
+}
 
+nav a {
+	text-decoration: none;
+	color:black;
+	font-size: 80%;
+	border-right: 2px solid black;
+	padding-left: 15%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+/* Put words in center and take away right border from 3rd nav. Make into divs?*/
+
+.star2 {
+	width:250px;
+	height:256px;
+}
+
+.paragraph {
+	font-size: 16pt;
+}
