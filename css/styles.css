@@ -81,8 +81,23 @@ nav a {
 .star2 {
 	width:250px;
 	height:256px;
+	float:left;
 }
 
 .paragraph {
 	font-size: 16pt;
+
+}
+
+ul {
+	font-size: 16pt;
+	list-style-type: disc;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+h3 {
+	font-size:1.15em;
 }
